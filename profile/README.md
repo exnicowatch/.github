@@ -3,13 +3,13 @@
 
 ## [ex-front](https://github.com/exnicowatch/ex-front)
 
-フロントエンドに関するリポジトリ(ex.n4a.dev)
+フロントエンドに関するリポジトリ([ex.n4a.dev](https://ex.n4a.dev))
 
 TypeScript React
 
 ## [ex-api](https://github.com/exnicowatch/ex-api)
 
-バックエンドに関するリポジトリ(api.ex.n4a.dev)
+バックエンドに関するリポジトリ([api.ex.n4a.dev](https://api.ex.n4a.dev))
 
 Python FastAPI
 
