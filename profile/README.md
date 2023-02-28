@@ -1,0 +1,20 @@
+# ExNicoWatch
+ニコニコ動画のちょっと強いプレイヤーを作るプロジェクト
+
+## [ex-front](https://github.com/exnicowatch/ex-front)
+
+フロントエンドに関するリポジトリ(ex.ncdo.net)
+
+TypeScript React
+
+## [ex-api](https://github.com/exnicowatch/ex-api)
+
+バックエンドに関するリポジトリ(api.ex.ncdo.net)
+
+Python FastAPI
+
+## [ex-extension](https://github.com/exnicowatch/ex-extension)
+
+拡張機能に関するリポジトリ
+
+TypeScript ChromeExtension
