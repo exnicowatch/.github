@@ -17,4 +17,4 @@ Python FastAPI
 
 拡張機能に関するリポジトリ
 
-TypeScript ChromeExtension
+TypeScript Plasmo
